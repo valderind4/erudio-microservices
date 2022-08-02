@@ -1,0 +1,15 @@
+
+D
+java:S1905")Remove this unnecessary cast to "Double".(¦€µÇøÿÿÿÿ
+w
+java:S1128"URemove this unused import 'br.com.erudio.exception.UnSuportedMathOperationException'.(×”µşıÿÿÿÿ8©„à¥0
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8ª„à¥0
+p
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8ª„à¥0
+t
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ8«„à¥0
+
+java:S1128"]Remove this unused import 'br.com.erudio.request.converters.NumberConverter.convertToDouble'.(íŠ•÷ÿÿÿÿÿ8«„à¥0
+t
+java:S1128	"WRemove this unused import 'br.com.erudio.request.converters.NumberConverter.isNumeric'.(Ÿıå8«„à¥0
