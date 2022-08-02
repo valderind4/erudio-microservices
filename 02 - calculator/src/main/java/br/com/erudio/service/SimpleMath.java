@@ -1,13 +1,8 @@
-package br.com.erudio.math;
+package br.com.erudio.service;
 
-import br.com.erudio.exception.UnSuportedMathOperationException;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.stereotype.Service;
 
-import static br.com.erudio.request.converters.NumberConverter.convertToDouble;
-import static br.com.erudio.request.converters.NumberConverter.isNumeric;
-
+@Service
 public class SimpleMath {
 
     public Double sum( Double numberOne,  Double numberTwo)  {

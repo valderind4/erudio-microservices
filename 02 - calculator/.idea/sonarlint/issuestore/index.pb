@@ -9,9 +9,5 @@ s
 Csrc/main/java/br/com/erudio/request/converters/NumberConverter.java,2/f/2fed33e9f3e0344eecde30ff6ec70de655708b21
 `
 0src/main/java/br/com/erudio/math/SimpleMath.java,a/4/a42e75690e489a1da738fc388c496d68e61ad28e
-X
-(src/main/java/br/com/erudio/Startup.java,f/b/fb72c758473d4f95762cbc215677d1300e1ac161
 {
 Ksrc/main/java/br/com/erudio/exception/UnSuportedMathOperationException.java,5/6/5691739f1b5b920925b9842d1ab7c30e4046972b
-j
-:src/main/java/br/com/erudio/controller/MathController.java,8/a/8a699aae9ac090dad8a9152a4d01fec6cc1e1fc7
