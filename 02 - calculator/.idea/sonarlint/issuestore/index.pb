@@ -11,3 +11,13 @@ Csrc/main/java/br/com/erudio/request/converters/NumberConverter.java,2/f/2fed33
 0src/main/java/br/com/erudio/math/SimpleMath.java,a/4/a42e75690e489a1da738fc388c496d68e61ad28e
 {
 Ksrc/main/java/br/com/erudio/exception/UnSuportedMathOperationException.java,5/6/5691739f1b5b920925b9842d1ab7c30e4046972b
+X
+(src/main/java/br/com/erudio/Startup.java,f/b/fb72c758473d4f95762cbc215677d1300e1ac161
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+h
+8src/main/java/br/com/erudio/service/NumberConverter.java,2/8/2843c064cf39624ec20d64f665e507117d889ff0
+c
+3src/main/java/br/com/erudio/service/SimpleMath.java,c/b/cbc41ddbd1a992f6c245613f998c19456263f002
+j
+:src/main/java/br/com/erudio/controller/MathController.java,8/a/8a699aae9ac090dad8a9152a4d01fec6cc1e1fc7

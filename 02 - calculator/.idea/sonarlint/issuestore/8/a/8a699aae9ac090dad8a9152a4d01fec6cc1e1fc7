@@ -1,0 +1,33 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(£Í²©8èååã¥0
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(†…ª8éååã¥0
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(±˜è²ùÿÿÿÿ8éååã¥0
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(›©ğøÿÿÿÿ8éååã¥0
+a	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(İÃ*8éååã¥0
+b	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(íË¤¯8éååã¥0
+w
+java:S1192"\Define a constant instead of duplicating this literal "Please set a numeric value!" 5 times.(ÈşÕ˜ÿÿÿÿÿ
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "sum".(ÖÜ– ûÿÿÿÿ
+v
+java:S1488""[Immediately return this expression instead of assigning it to the temporary variable "sub".(ÌñˆÑşÿÿÿÿ
+w
+java:S1488+"\Immediately return this expression instead of assigning it to the temporary variable "mult".(õ¢×·ıÿÿÿÿ
+v
+java:S14884"[Immediately return this expression instead of assigning it to the temporary variable "div".(®§Îüÿÿÿÿ
+w
+java:S1488="\Immediately return this expression instead of assigning it to the temporary variable "mean".(‘‰’²ùÿÿÿÿ
+v
+java:S1488F"[Immediately return this expression instead of assigning it to the temporary variable "sqr".(ïãÿÀùÿÿÿÿ
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ä±§áşÿÿÿÿ
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(çÍáùûÿÿÿÿ
+c
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(§á¨ùÿÿÿÿ
+c
+java:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÃÔø‰ıÿÿÿÿ
+c
+java:S44888"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»ÅËÊøÿÿÿÿ
+^
+java:S4488A"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(×Ø£ç

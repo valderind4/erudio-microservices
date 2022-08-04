@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../05-book-service/book-service.iml" filepath="$PROJECT_DIR$/../05-book-service/book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05-cambio-service/cambio-service.iml" filepath="$PROJECT_DIR$/../05-cambio-service/cambio-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/db-container-server.iml" filepath="$PROJECT_DIR$/.idea/db-container-server.iml" />
+    </modules>
+  </component>
+</project>
