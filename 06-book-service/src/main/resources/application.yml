@@ -1,0 +1,35 @@
+server:
+  port: 8100
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+    fetch-registry: true
+    register-with-eureka: true
+spring:
+  application:
+    name: book-service
+  cloud:
+    config:
+      enabled: false
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:56000/book_service?useTimezone=true&serverTimezone=UTC
+    username: root
+    password: root
+  flyway:
+    url: jdbc:mysql://localhost:56000/
+    schemas: book_service
+    user: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+  jackson:
+    default-property-inclusion: non_null
+    serialization:
+      fail-on-empty-beans: false
