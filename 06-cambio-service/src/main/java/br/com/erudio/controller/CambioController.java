@@ -2,6 +2,8 @@ package br.com.erudio.controller;
 
 import br.com.erudio.model.Cambio;
 import br.com.erudio.repository.CambioRepository;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
+@Tag(name = "Cambio endpoint")
 @RestController
 @RequestMapping("cambio-service")
 public class CambioController {
@@ -22,6 +25,7 @@ public class CambioController {
     private CambioRepository repository;
 
     //http://localhost:8000/cambio-service/5/USD/BRL
+    @Operation(summary = "Get the total amount for a specific currency in relation to another currency")
     @GetMapping(value = "/{amount}/{from}/{to}")
     public Cambio getCambio(
             @PathVariable("amount") BigDecimal amount,
